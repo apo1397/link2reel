@@ -37,7 +37,9 @@ ENV/
 .docker/
 
 # Logs
+logs/
 *.log
+*.log.*
 
 # Database
 *.db

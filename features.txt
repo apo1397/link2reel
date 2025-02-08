@@ -1,0 +1,9 @@
+- limit editing & regenerating the script
+- Skip the first model and directly call openAI to scrape and get USPs.
+- type of video style
+- Ask chatGPT to return the branding details as well
+- Reorder the USPs as per priority
+- Allow to add their own USPs, upto 5
+- pick up brand kits via chatGPT
+- combine multiple URLs
+- Create a content calendar which the major events marked on the calendar 
